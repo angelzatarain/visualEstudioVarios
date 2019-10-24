@@ -1,0 +1,15 @@
+C:\Users\dai\Desktop\VisualEstudioAngel\RepasoExamen\RegistroAspirantes\RegistroAspirantes\bin\Debug\RegistroAspirantes.exe.config
+C:\Users\dai\Desktop\VisualEstudioAngel\RepasoExamen\RegistroAspirantes\RegistroAspirantes\bin\Debug\RegistroAspirantes.exe
+C:\Users\dai\Desktop\VisualEstudioAngel\RepasoExamen\RegistroAspirantes\RegistroAspirantes\bin\Debug\RegistroAspirantes.pdb
+C:\Users\dai\Desktop\VisualEstudioAngel\RepasoExamen\RegistroAspirantes\RegistroAspirantes\obj\Debug\RegistroAspirantes.csprojAssemblyReference.cache
+C:\Users\dai\Desktop\VisualEstudioAngel\RepasoExamen\RegistroAspirantes\RegistroAspirantes\obj\Debug\MainWindow.g.cs
+C:\Users\dai\Desktop\VisualEstudioAngel\RepasoExamen\RegistroAspirantes\RegistroAspirantes\obj\Debug\App.g.cs
+C:\Users\dai\Desktop\VisualEstudioAngel\RepasoExamen\RegistroAspirantes\RegistroAspirantes\obj\Debug\RegistroAspirantes_MarkupCompile.cache
+C:\Users\dai\Desktop\VisualEstudioAngel\RepasoExamen\RegistroAspirantes\RegistroAspirantes\obj\Debug\RegistroAspirantes_MarkupCompile.lref
+C:\Users\dai\Desktop\VisualEstudioAngel\RepasoExamen\RegistroAspirantes\RegistroAspirantes\obj\Debug\MainWindow.baml
+C:\Users\dai\Desktop\VisualEstudioAngel\RepasoExamen\RegistroAspirantes\RegistroAspirantes\obj\Debug\RegistroAspirantes.g.resources
+C:\Users\dai\Desktop\VisualEstudioAngel\RepasoExamen\RegistroAspirantes\RegistroAspirantes\obj\Debug\RegistroAspirantes.Properties.Resources.resources
+C:\Users\dai\Desktop\VisualEstudioAngel\RepasoExamen\RegistroAspirantes\RegistroAspirantes\obj\Debug\RegistroAspirantes.csproj.GenerateResource.cache
+C:\Users\dai\Desktop\VisualEstudioAngel\RepasoExamen\RegistroAspirantes\RegistroAspirantes\obj\Debug\RegistroAspirantes.csproj.CoreCompileInputs.cache
+C:\Users\dai\Desktop\VisualEstudioAngel\RepasoExamen\RegistroAspirantes\RegistroAspirantes\obj\Debug\RegistroAspirantes.exe
+C:\Users\dai\Desktop\VisualEstudioAngel\RepasoExamen\RegistroAspirantes\RegistroAspirantes\obj\Debug\RegistroAspirantes.pdb

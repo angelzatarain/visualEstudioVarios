@@ -1,0 +1,15 @@
+C:\Users\dai\Desktop\VisualEstudioAngel\PrimerEjemplo\PrimerEjemplo\bin\Debug\PrimerEjemplo.exe.config
+C:\Users\dai\Desktop\VisualEstudioAngel\PrimerEjemplo\PrimerEjemplo\bin\Debug\PrimerEjemplo.exe
+C:\Users\dai\Desktop\VisualEstudioAngel\PrimerEjemplo\PrimerEjemplo\bin\Debug\PrimerEjemplo.pdb
+C:\Users\dai\Desktop\VisualEstudioAngel\PrimerEjemplo\PrimerEjemplo\obj\Debug\PrimerEjemplo.csprojAssemblyReference.cache
+C:\Users\dai\Desktop\VisualEstudioAngel\PrimerEjemplo\PrimerEjemplo\obj\Debug\MainWindow.g.cs
+C:\Users\dai\Desktop\VisualEstudioAngel\PrimerEjemplo\PrimerEjemplo\obj\Debug\App.g.cs
+C:\Users\dai\Desktop\VisualEstudioAngel\PrimerEjemplo\PrimerEjemplo\obj\Debug\PrimerEjemplo_MarkupCompile.cache
+C:\Users\dai\Desktop\VisualEstudioAngel\PrimerEjemplo\PrimerEjemplo\obj\Debug\PrimerEjemplo_MarkupCompile.lref
+C:\Users\dai\Desktop\VisualEstudioAngel\PrimerEjemplo\PrimerEjemplo\obj\Debug\MainWindow.baml
+C:\Users\dai\Desktop\VisualEstudioAngel\PrimerEjemplo\PrimerEjemplo\obj\Debug\PrimerEjemplo.g.resources
+C:\Users\dai\Desktop\VisualEstudioAngel\PrimerEjemplo\PrimerEjemplo\obj\Debug\PrimerEjemplo.Properties.Resources.resources
+C:\Users\dai\Desktop\VisualEstudioAngel\PrimerEjemplo\PrimerEjemplo\obj\Debug\PrimerEjemplo.csproj.GenerateResource.cache
+C:\Users\dai\Desktop\VisualEstudioAngel\PrimerEjemplo\PrimerEjemplo\obj\Debug\PrimerEjemplo.csproj.CoreCompileInputs.cache
+C:\Users\dai\Desktop\VisualEstudioAngel\PrimerEjemplo\PrimerEjemplo\obj\Debug\PrimerEjemplo.exe
+C:\Users\dai\Desktop\VisualEstudioAngel\PrimerEjemplo\PrimerEjemplo\obj\Debug\PrimerEjemplo.pdb
